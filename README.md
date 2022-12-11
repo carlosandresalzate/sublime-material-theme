@@ -1,9 +1,8 @@
 <p align="center">
   <h2>
-      This project is no longer maintained.
-      The original author has abandoned it and replaced the repository
-      with their theme for VS Code.
-      This repository is a mirror of the last publicly known state.
+      ⚠️ This project is no longer maintained since 2016. This repository contains dangerous code and dependencies. DON'T use it.
+
+      If you want to create a new Material Theme for Sublime Text contact us.
   </h2>
 </p>
 
