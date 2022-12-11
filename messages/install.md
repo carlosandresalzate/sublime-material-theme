@@ -8,7 +8,7 @@ See https://github.com/wbond/package_control_channel/pull/8646 for details.
 
 **********************************************************************************************
 
-For more information on the Material Theme: https://github.com/SublimeText/material-theme
+For more information on the Material Theme: https://github.com/material-theme/sublime-material-theme
 
 **********************************************************************************************
 
